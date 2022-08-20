@@ -4,3 +4,6 @@
 # Sentry-cdn.com
 0.0.0.0 https://browser.sentry-cdn.com
 0.0.0.0 https://app.getsentry.com
+
+#Apple
+0.0.0.0 https://metrics.icloud.com
